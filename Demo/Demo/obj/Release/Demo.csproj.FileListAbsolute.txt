@@ -1,0 +1,10 @@
+C:\Users\Saku\Documents\GitHub\Palvausjarjestelma\Demo\Demo\bin\Release\Demo.exe.config
+C:\Users\Saku\Documents\GitHub\Palvausjarjestelma\Demo\Demo\bin\Release\Demo.exe
+C:\Users\Saku\Documents\GitHub\Palvausjarjestelma\Demo\Demo\bin\Release\Demo.pdb
+C:\Users\Saku\Documents\GitHub\Palvausjarjestelma\Demo\Demo\obj\Release\Demo.csprojAssemblyReference.cache
+C:\Users\Saku\Documents\GitHub\Palvausjarjestelma\Demo\Demo\obj\Release\Demo.Form1.resources
+C:\Users\Saku\Documents\GitHub\Palvausjarjestelma\Demo\Demo\obj\Release\Demo.Properties.Resources.resources
+C:\Users\Saku\Documents\GitHub\Palvausjarjestelma\Demo\Demo\obj\Release\Demo.csproj.GenerateResource.cache
+C:\Users\Saku\Documents\GitHub\Palvausjarjestelma\Demo\Demo\obj\Release\Demo.csproj.CoreCompileInputs.cache
+C:\Users\Saku\Documents\GitHub\Palvausjarjestelma\Demo\Demo\obj\Release\Demo.exe
+C:\Users\Saku\Documents\GitHub\Palvausjarjestelma\Demo\Demo\obj\Release\Demo.pdb
